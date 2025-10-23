@@ -25,6 +25,7 @@
 ###
 <div align="center">
   <img src="https://count.getloli.com/@:tlombardot?theme=yousa-ling&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tlombardot&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
