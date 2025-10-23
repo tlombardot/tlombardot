@@ -24,7 +24,7 @@
 
 ###
 <div align="center">
-  <img src="https://count.getloli.com/@:tlombardot?theme=moebooru-h&padding=9&scale=1.5&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:tlombardot?theme=yousa-ling&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
