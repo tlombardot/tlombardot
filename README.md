@@ -42,8 +42,8 @@
 
 Quelques projets personnels et scolaires :
 
-- 📘 **Exercices en C** — <a href="">Editeur SVG en CLI</a>
-- 🌐 **Pages web en HTML/CSS** — <a href="">Page Web HTLM/CSS sans JS en groupe</a>
+- 📘 **Exercices en C** — <a href="editor-svg">Editeur SVG en CLI</a>
+- 🌐 **Pages web en HTML/CSS** — <a href="25-projet-html">Page Web HTLM/CSS sans JS en groupe</a>
 - 🐍 **Petits scripts Python** — automatisation & découverte
 - 🗄️ **Manipulation SQL** — requêtes, tables, jointures
 
