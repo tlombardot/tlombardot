@@ -19,10 +19,10 @@
 
 ### ⚡ About Me
 
-- 🔭 **I’m currently working on:** My first web development projects and school assignments.
-- 🌱 **I’m currently learning:** The fundamentals of programming (Algorithms, C, Python) and Web Basics.
-- 🎯 **Goals for 2025:** Strengthening my logic skills and building a solid portfolio.
-- 💬 **Ask me about:** My studies, tech news, or video games!
+- 🔭 **Current Focus:** Building a personal portfolio to showcase my skills.
+- 🎓 **School Project:** [Editor SVG CLI](https://github.com/tlombardot/editor-svg) (C Programming).
+- 🌱 **Learning:** Constantly expanding my technical stack with new languages and tools through my curriculum.
+- 🎯 **Goals:** Exploring new programming languages and building a solid portfolio.
 
 ---
 
