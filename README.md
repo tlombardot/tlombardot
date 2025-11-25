@@ -1,28 +1,32 @@
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQwNjE3MzIsIm5iZiI6MTc2NDA2MTQzMiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDA5MDM1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxNmIxNWFmYTdjMGVhMjU3MTQwNGRlMGEzNGRiODBmMDNiMTIwZGI2MmU3ZWJkODkzMzMyNGJjNWQzN2RmZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yZP8-5myRmv6lZ4I7JXPdve1HWiqEGjNoCWTVVvoqDs" width="100%">
 
-<img src ="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQwNjE3MzIsIm5iZiI6MTc2NDA2MTQzMiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI1VDA5MDM1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxNmIxNWFmYTdjMGVhMjU3MTQwNGRlMGEzNGRiODBmMDNiMTIwZGI2MmU3ZWJkODkzMzMyNGJjNWQzN2RmZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yZP8-5myRmv6lZ4I7JXPdve1HWiqEGjNoCWTVVvoqDs">
+<h1 align="center">Hi there, I'm Thomas!</h1>
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Salut, je suis Thomas !
-      </h1>
-    </summary>
-  </ul>
+<div align="center">
+  <a href="https://github.com/tlombardot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28">
+  </a>
+  <a href="https://www.linkedin.com/in/thomas-lombardot/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+  </a>
 </div>
-<h2>Me contacter : </h2>
- <p align="left"><a href="https://github.com/tlombardot" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/thomas-lombardot/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
+<br>
 
-**Passionné par l'informatique, je suis étudiant en Bachelor Développeur Full Stack**
+**Passionate about Computer Science, I am currently a 1st-year student in a Full Stack Developer Bachelor program.**
 
-**En bref**
+---
 
-- 💼 Je travaille actuellement sur : 
-- 🌱 J'apprends actuellement : 
-- 💬 Demandez-moi des infos sur :
+### ⚡ About Me
 
-**Compétences**
+- 🔭 **I’m currently working on:** My first web development projects and school assignments.
+- 🌱 **I’m currently learning:** The fundamentals of programming (Algorithms, C, Python) and Web Basics.
+- 🎯 **Goals for 2025:** Strengthening my logic skills and building a solid portfolio.
+- 💬 **Ask me about:** My studies, tech news, or video games!
+
+---
+
+### 🛠️ Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   
